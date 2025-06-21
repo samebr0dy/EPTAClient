@@ -1,0 +1,8 @@
+#Sat Jun 21 18:00:37 MSK 2025
+shadowDistance=128.0
+LIGHT_SHAFT=false
+SHADOW_FILTER=false
+shadowMapResolution=1024
+TAA=false
+SHADOW_COLOR=false
+AO=false
